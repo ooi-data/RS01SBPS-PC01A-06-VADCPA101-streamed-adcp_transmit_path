@@ -1,3 +1,5 @@
-# Stream Template Repository
+# RS01SBPS-PC01A-06-VADCPA101-streamed-adcp_transmit_path
 
-This repository is a template for all the other repositories.
+Stream Type: Engineering<br>
+Stream Content: Transmit Path Data<br>
+Instrument Group Code: ADCP<br>
